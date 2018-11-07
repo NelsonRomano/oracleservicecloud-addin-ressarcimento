@@ -1,0 +1,11 @@
+c:\users\nromano\documents\visual studio 2015\Projects\RN_AddIn_Ressarcimento\RN_AddIn_Ressarcimento\bin\Debug\RN_AddIn_Ressarcimento.dll
+c:\users\nromano\documents\visual studio 2015\Projects\RN_AddIn_Ressarcimento\RN_AddIn_Ressarcimento\bin\Debug\RN_AddIn_Ressarcimento.pdb
+c:\users\nromano\documents\visual studio 2015\Projects\RN_AddIn_Ressarcimento\RN_AddIn_Ressarcimento\bin\Debug\RightNow.AddIns.AddInViews.dll
+c:\users\nromano\documents\visual studio 2015\Projects\RN_AddIn_Ressarcimento\RN_AddIn_Ressarcimento\obj\Debug\RN_AddIn_Ressarcimento.csprojResolveAssemblyReference.cache
+c:\users\nromano\documents\visual studio 2015\Projects\RN_AddIn_Ressarcimento\RN_AddIn_Ressarcimento\obj\Debug\RN_AddIn_Ressarcimento.Properties.Resources.resources
+c:\users\nromano\documents\visual studio 2015\Projects\RN_AddIn_Ressarcimento\RN_AddIn_Ressarcimento\obj\Debug\RN_AddIn_Ressarcimento.csproj.GenerateResource.Cache
+c:\users\nromano\documents\visual studio 2015\Projects\RN_AddIn_Ressarcimento\RN_AddIn_Ressarcimento\obj\Debug\RN_AddIn_Ressarcimento.dll
+c:\users\nromano\documents\visual studio 2015\Projects\RN_AddIn_Ressarcimento\RN_AddIn_Ressarcimento\obj\Debug\RN_AddIn_Ressarcimento.pdb
+C:\Users\nromano\Documents\Visual Studio 2015\Projects\RN_AddIn_Ressarcimento\RN_AddIn_Ressarcimento\bin\Debug\RN_AddIn_Ressarcimento.dll.config
+C:\Users\nromano\Documents\Visual Studio 2015\Projects\RN_AddIn_Ressarcimento\RN_AddIn_Ressarcimento\bin\Debug\TesteHttpRequest.dll
+C:\Users\nromano\Documents\Visual Studio 2015\Projects\RN_AddIn_Ressarcimento\RN_AddIn_Ressarcimento\bin\Debug\TesteHttpRequest.pdb
